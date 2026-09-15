@@ -1,7 +1,11 @@
+import MainRoutes from "./assets/routes";
+
 function App() {
   return (
-    <h1>Test</h1>
+    <>
+      <MainRoutes />
+    </>
   )
 }
 
-export default App
+export default App;
