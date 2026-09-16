@@ -1,0 +1,11 @@
+:root {
+  --background-default: #FAFAFA;
+  --text-primary: #0E0D0F;
+  --action-main: rgba(14, 13, 15, 0.64);
+  --divider-main: rgba(14, 13, 15, 0.08);
+  --purple-main: #6F76C0;
+}
+
+body {
+  background-color: var(--background-default, #FAFAFA);
+}
