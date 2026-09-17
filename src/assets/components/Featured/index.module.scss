@@ -1,10 +1,14 @@
-.latestNews {
-  background-image:
-    linear-gradient(180deg, #FAFAFA 0%, rgba(250, 250, 250, 0.8) 50.06%, #FAFAFA 100%),
-    url('../../images/latest-news/latest-news-bg.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+.featured {
   margin: 0 0 120px;
+
+  &Inner {
+    max-width: 980px;
+    margin: 0 auto 48px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 24px;
+  }
 
   &Title {
     font-family: 'Urbanist';
@@ -12,17 +16,16 @@
     font-weight: 700;
     font-size: 54px;
     line-height: 140%;
-    text-align: center;
-    background: var(--main-gradient);
+    background: var(--main-gradient, linear-gradient(90deg, #3DAFE2 0%, #6F76C0 100%));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-fill-color: transparent;
-    margin: 0 0 24px;
+    margin: 0;
+    text-align: center;
   }
 
   &Text {
-    width: 980px;
     font-family: 'Urbanist';
     font-style: normal;
     font-weight: 400;
@@ -30,7 +33,7 @@
     line-height: 160%;
     text-align: center;
     color: var(--text-secondary, rgba(14, 13, 15, 0.7));
-    margin: 0 auto 48px;
+    margin: 0;
   }
 
   &List {
@@ -39,7 +42,7 @@
     margin: 0;
     display: flex;
     align-items: center;
-    gap: 48px;
     flex-wrap: wrap;
+    gap: 16px;
   }
 }

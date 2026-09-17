@@ -1,0 +1,58 @@
+.gameCard {
+  width: 243px;
+
+  &Img {
+    width: 243px;
+    height: 340px;
+    border-radius: 8px;
+  }
+
+  &Inner {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  &Price {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--purple-main, #6F76C0);
+
+    span {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 120%;
+      text-decoration-line: line-through;
+      color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+    }
+  }
+
+  &Title {
+    margin: 0;
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+    color: var(--text-primary, #0E0D0F);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 218px;
+  }
+
+  &Platform {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  &Svg {
+    color: var(--purple-main, #6F76C0);
+  }
+}
