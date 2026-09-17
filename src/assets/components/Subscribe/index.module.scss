@@ -1,0 +1,91 @@
+.subscribe {
+  background-image:
+    linear-gradient(270deg, rgba(250, 250, 250, 0) 0%, #FAFAFA 79.5%),
+    url('../../images/subscribe/subscribe-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center, center -100px;
+  padding: 120px 0;
+  margin: 0 0 120px;
+
+  &Inner {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 0 0 32px;
+  }
+
+  &Title {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 120%;
+    margin: 0;
+
+    span {
+      background: var(--main-gradient, linear-gradient(90deg, #3DAFE2 0%, #6F76C0 100%));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+    }
+  }
+
+  &Text {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+    margin: 0;
+  }
+
+  &Form {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+
+  &Input {
+    padding: 20px 24px;
+    width: 300px;
+    border: 1px solid var(--divider-input, rgba(14, 13, 15, 0.24));
+    border-radius: 5px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: var(--white-contrast, #0A090A);
+
+    &::placeholder {
+      font-family: 'Ubuntu';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 120%;
+      color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+    }
+  }
+
+  &Btn {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-primary-white, #FFFFFF);
+    padding: 20px;
+    width: 154px;
+    background: var(--main-gradient, linear-gradient(90deg, #3DAFE2 0%, #6F76C0 100%));
+    box-shadow: 0px 16px 24px rgba(61, 175, 226, 0.48);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+}
