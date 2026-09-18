@@ -6,7 +6,7 @@ function LatestNews() {
   return (
     <section className={styles.latestNews}>
       <div className="container">
-        <h2 className={styles.latestNewsTitle}>Latest News</h2>
+        <h2 className={`title`}>Latest News</h2>
         <p className={styles.latestNewsText}>
           There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
         </p>

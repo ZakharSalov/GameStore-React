@@ -14,7 +14,7 @@ function LatestNewsCard() {
         <p className={styles.cardText}>
           Play some of these beloved games without breaking the bank! From now until January 2, new subscribers can get their first month of Ubisoft+ Classics for just $1 USD.
         </p>
-        <Link className={styles.cardBtn} to="/news:slug">
+        <Link className={`btn ${styles.cardBtn}`} to="/news:slug">
           <Icon className={styles.cardBtnSvg} name="document-mini-icon" size={24} />
           Open the post
         </Link>

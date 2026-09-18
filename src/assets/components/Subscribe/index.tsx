@@ -12,11 +12,11 @@ function Subscribe() {
             Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Games Store and our affiliates.
           </p>
         </div>
-          <form className={styles.subscribeForm} method="POST">
-            <input className={styles.subscribeInput} type="name" placeholder="Your Name" required />
-            <input className={styles.subscribeInput} type="email" placeholder="Your Email" required />
-            <button className={styles.subscribeBtn}>Subscribe</button>
-          </form>
+        <form className={styles.subscribeForm} method="POST">
+          <input className={styles.subscribeInput} type="name" placeholder="Your Name" required />
+          <input className={styles.subscribeInput} type="email" placeholder="Your Email" required />
+          <button className={`btn ${styles.subscribeBtn}`}>Subscribe</button>
+        </form>
       </div>
     </section>
   )

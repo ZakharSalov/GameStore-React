@@ -7,7 +7,7 @@ function Featured() {
     <section className={styles.featured}>
       <div className="container">
         <div className={styles.featuredInner}>
-          <h2 className={styles.featuredTitle}>Featured Games</h2>
+          <h2 className={`title`}>Featured Games</h2>
           <p className={styles.featuredText}>
             There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
           </p>

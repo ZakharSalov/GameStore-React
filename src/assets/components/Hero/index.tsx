@@ -13,10 +13,10 @@ function Hero() {
           <p className={styles.heroText}>
             Save. Play. Celebrate. Ends 1/17
           </p>
-          <button className={styles.heroBtn}>
+          <button className={`btn ${styles.heroBtn}`}>
             <Icon className={styles.heroBtnSvg} name="document-icon" size={24} />
             Download & Save Now
-            </button>
+          </button>
         </div>
         <ul className={styles.heroCompanysList}>
           <li className={styles.heroCompanysItem}>

@@ -1,3 +1,4 @@
+import Embark from "../../components/Embark";
 import Featured from "../../components/Featured";
 import Hero from "../../components/Hero";
 import HomeSlider from "../../components/HomeSlider";
@@ -12,6 +13,7 @@ function Home() {
       <LatestNews />
       <Subscribe />
       <Featured />
+      <Embark />
     </>
   )
 }

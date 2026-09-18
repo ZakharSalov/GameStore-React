@@ -6,21 +6,6 @@
   background-repeat: no-repeat;
   margin: 0 0 120px;
 
-  &Title {
-    font-family: 'Urbanist';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 54px;
-    line-height: 140%;
-    text-align: center;
-    background: var(--main-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
-    margin: 0 0 24px;
-  }
-
   &Text {
     width: 980px;
     font-family: 'Urbanist';

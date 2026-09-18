@@ -4,25 +4,6 @@
   &Inner {
     max-width: 980px;
     margin: 0 auto 48px;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    gap: 24px;
-  }
-
-  &Title {
-    font-family: 'Urbanist';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 54px;
-    line-height: 140%;
-    background: var(--main-gradient, linear-gradient(90deg, #3DAFE2 0%, #6F76C0 100%));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
-    margin: 0;
-    text-align: center;
   }
 
   &Text {
