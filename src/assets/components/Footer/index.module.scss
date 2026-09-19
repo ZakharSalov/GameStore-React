@@ -1,0 +1,90 @@
+.footer {
+  margin: 0 0 70px;
+
+  &Wrapper {
+    padding: 48px;
+    background: rgba(250, 250, 250, 0.02);
+    border: 1px solid rgba(14, 13, 15, 0.08);
+    backdrop-filter: blur(12px);
+    border-radius: 8px;
+  }
+
+  &Inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--divider-main, rgba(14, 13, 15, 0.08));
+    padding-bottom: 48px;
+  }
+
+  &Left {
+    width: 400px;
+  }
+
+  &Logo {
+    display: flex;
+    align-items: center;
+
+    &Svg {
+      width: 61px;
+      height: 42px;
+    }
+  }
+
+  &Text {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+    margin: 24px 0;
+  }
+
+  &Right {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  &Copy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+
+    &Left {
+      display: flex;
+      align-items: center;
+      gap: 48px;
+    }
+
+    &Text {
+      font-family: 'Urbanist';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+      margin: 0;
+    }
+
+    &Right {
+      display: flex;
+      align-items: center;
+      gap: 48px;
+    }
+
+    &Link {
+      font-family: 'Urbanist';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 12px;
+      line-height: 140%;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--text-primary, #0E0D0F);
+      text-decoration: none;
+    }
+  }
+}

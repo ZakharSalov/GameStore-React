@@ -1,0 +1,25 @@
+.socials {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  &Item {
+    background: #6F76C0;
+    backdrop-filter: blur(12px);
+    border-radius: 12px;
+  }
+
+  &Link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+  }
+
+  &Svg {
+    color: var(--text-primary-white, #FFFFFF);
+  }
+}

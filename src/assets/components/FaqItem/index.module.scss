@@ -1,0 +1,48 @@
+.faq {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 24px;
+  gap: 24px;
+  border: 1px solid var(--divider-main, rgba(14, 13, 15, 0.08));
+  border-radius: 5px;
+  width: 767px;
+  cursor: pointer;
+
+  &Title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+    color: var(--text-primary, #0E0D0F);
+
+    span {
+      font-family: 'Urbanist';
+      font-style: normal;
+      font-weight: 100;
+      font-size: 50px;
+      line-height: 50%;
+      background: var(--main-gradient, linear-gradient(90deg, #3DAFE2 0%, #6F76C0 100%));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+    }
+  }
+
+  &Text {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+    margin: 0;
+    display: none;
+  }
+}
