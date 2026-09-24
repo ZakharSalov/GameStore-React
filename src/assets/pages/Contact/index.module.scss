@@ -1,0 +1,193 @@
+.contact {
+  margin-bottom: 102px;
+
+  &Top {
+    background-image:
+      linear-gradient(180deg, #FAFAFA 0%, rgba(250, 250, 250, 0.8) 50.06%, #FAFAFA 100%),
+      url(../../images/embark/embark-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 95px 0;
+
+    &Title {
+      font-family: 'Urbanist';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 54px;
+      line-height: 140%;
+      color: var(--text-primary, #0E0D0F);
+      text-align: center;
+      margin: 0 0 12px;
+    }
+
+    &Text {
+      font-family: 'Urbanist';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 160%;
+      text-align: center;
+      color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+      margin: 0 0 48px;
+    }
+  }
+
+  &Title {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 140%;
+    text-align: center;
+    background: var(--main-gradient, linear-gradient(90deg, #3DAFE2 0%, #6F76C0 100%));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin: 0 0 24px;
+  }
+
+  &Text {
+    width: 980px;
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: center;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+    margin: 0 auto 120px;
+  }
+
+  &Form {
+    width: 856px;
+    margin: 0 auto;
+    background: var(--background-default, #FAFAFA);
+    border-radius: 10px;
+    padding: 45px 48px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+    position: relative;
+  }
+
+  &Svg {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 50%;
+    transform: translate(-50%);
+    top: -38px;
+    background: var(--text-primary-whitem, #FFFFFF);
+    border-radius: 50%;
+    padding: 18px;
+  }
+
+  &Inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 0 0 29px;
+  }
+
+  &Label {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+  }
+
+  &Input {
+    padding: 16px 24px;
+    width: 760px;
+    border: 1px solid var(--divider-input, rgba(14, 13, 15, 0.24));
+    border-radius: 5px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+  }
+
+  &Textarea {
+    padding: 16px 24px;
+    width: 760px;
+    height: 175px;
+    border: 1px solid var(--divider-input, rgba(14, 13, 15, 0.24));
+    border-radius: 5px;
+    resize: none;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+    color: var(--text-secondary, rgba(14, 13, 15, 0.7));
+  }
+
+  &Btn {
+    display: block;
+    max-width: 191px;
+    padding: 20px;
+    margin: 0 auto 24px;
+  }
+
+  &Warning {
+    display: block;
+    padding: 12px 24px;
+    width: 760px;
+    background-color: var(--blue-8, rgba(61, 175, 226, 0.08));
+    border-radius: 12px;
+    text-align: center;
+  }
+}
+
+.advantages {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+
+  &Item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    gap: 24px;
+    width: 367px;
+    height: 142px;
+    background: rgba(250, 250, 250, 0.48);
+    border: 1px solid rgba(14, 13, 15, 0.08);
+    backdrop-filter: blur(4px);
+    border-radius: 16px;
+  }
+
+  &Svg {
+    width: 48px;
+    height: 48px;
+  }
+
+  &Text {
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+    text-align: center;
+    color: var(--text-primary, #0E0D0F);
+  }
+}
+
+.customInput {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  select {
+    appearance: none;
+    background-image: url("../../images/icons/arrow-down.svg");
+    background-repeat: no-repeat;
+    background-size: 24px;
+    background-position: right 24px center;
+    cursor: pointer;
+  }
+}
