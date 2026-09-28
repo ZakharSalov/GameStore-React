@@ -3,9 +3,9 @@ import { Icon } from "../Icon";
 
 import styles from "./index.module.scss";
 
-function Socials() {
+function Socials({ gap = 16 }) {
   return (
-    <ul className={styles.socials}>
+    <ul className={styles.socials} style={{ gap }}>
       <li className={styles.socialsItem}>
         <Link className={styles.socialsLink} to="/">
           <Icon className={styles.socialsSvg} name="twitter-logo" size={24} />
