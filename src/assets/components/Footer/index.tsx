@@ -22,8 +22,6 @@ function Footer() {
             </div>
             <div className={styles.footerRight}>
               <FaqItem />
-              <FaqItem />
-              <FaqItem />
             </div>
           </div>
           <div className={styles.footerCopy}>

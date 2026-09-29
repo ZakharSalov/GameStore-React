@@ -11,7 +11,7 @@
 
   &Inner {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     border-bottom: 1px solid var(--divider-main, rgba(14, 13, 15, 0.08));
     padding-bottom: 48px;
