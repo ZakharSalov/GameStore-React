@@ -1,0 +1,1051 @@
+[
+  {
+    "id": 1,
+    "title": "Cyberpunk 2077: Phantom Liberty",
+    "image": "/images/games/cyberpunk-2077.jpg",
+    "description": "An open-world action RPG set in the futuristic Night City, where players take the role of V, a mercenary searching for a way to survive in a world of corporations, cybernetics and crime.",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Adventure"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Japanese",
+        "Russian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Polish",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 29.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Elden Ring",
+    "image": "/images/games/elden-ring.jpg",
+    "description": "An action RPG set in a vast dark-fantasy world filled with powerful enemies, mysterious locations and challenging battles.",
+    "genres": [
+      "Action RPG",
+      "Souls-like",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "Japanese"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Polish"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 39.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Baldur's Gate 3",
+    "image": "/images/games/baldurs-gate-3.jpg",
+    "description": "A story-rich party-based RPG where your choices shape the world, relationships and outcome of your adventure.",
+    "genres": [
+      "RPG",
+      "Adventure",
+      "Strategy"
+    ],
+    "languages": {
+      "voice": [
+        "English"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Hogwarts Legacy",
+    "image": "/images/games/hogwarts-legacy.jpg",
+    "description": "Explore the magical world of Hogwarts, learn spells, discover secrets and experience your own wizarding adventure.",
+    "genres": [
+      "Action RPG",
+      "Adventure",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Italian",
+        "Spanish"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Italian",
+        "Spanish",
+        "Polish"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 24.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hades",
+    "image": "/images/games/hades.jpg",
+    "description": "A fast-paced roguelike dungeon crawler where you battle your way through the Underworld in an attempt to escape.",
+    "genres": [
+      "Action",
+      "Roguelike",
+      "RPG"
+    ],
+    "languages": {
+      "voice": [
+        "English"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian"
+      ]
+    },
+    "price": 24.99,
+    "discountPrice": 14.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Red Dead Redemption 2",
+    "image": "/images/games/red-dead-redemption-2.jpg",
+    "description": "An epic open-world western adventure following Arthur Morgan and the Van der Linde gang across the American frontier.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Portuguese",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 19.99,
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Hollow Knight",
+    "image": "/images/games/hollow-knight.jpg",
+    "description": "A challenging 2D adventure through a vast interconnected kingdom filled with mysterious creatures, forgotten ruins and dangerous bosses.",
+    "genres": [
+      "Metroidvania",
+      "Platformer",
+      "Action"
+    ],
+    "languages": {
+      "voice": [
+        "English"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 14.99,
+    "discountPrice": 7.49,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Forza Horizon 5",
+    "image": "/images/games/forza-horizon-5.jpg",
+    "description": "An open-world racing game set in a vibrant recreation of Mexico, featuring hundreds of cars, races and activities.",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Portuguese"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 35.99,
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Resident Evil 4",
+    "image": "/images/games/resident-evil-4.jpg",
+    "description": "A survival horror adventure following Leon Kennedy as he searches for the president's daughter in a mysterious rural village.",
+    "genres": [
+      "Survival Horror",
+      "Action",
+      "Adventure"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "Japanese"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 39.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Witcher 3: Wild Hunt",
+    "image": "/images/games/witcher-3.jpg",
+    "description": "A story-driven open-world RPG about Geralt of Rivia, a monster hunter searching for his adopted daughter across a war-torn fantasy world.",
+    "genres": [
+      "RPG",
+      "Action",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Polish",
+        "Russian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 9.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "God of War Ragnarök",
+    "image": "/images/games/god-of-war-ragnarok.jpg",
+    "description": "Kratos and Atreus journey through the Nine Realms as they face gods, monsters and the events of Ragnarök.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Action RPG"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Japanese"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 39.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Last of Us Part I",
+    "image": "/images/games/the-last-of-us-part-1.jpg",
+    "description": "A cinematic action-adventure following Joel and Ellie as they travel across a post-apocalyptic United States.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Survival"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Portuguese"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 29.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Death Stranding",
+    "image": "/images/games/death-stranding.jpg",
+    "description": "A unique open-world adventure where Sam Porter Bridges must reconnect a fractured society in a mysterious post-apocalyptic world.",
+    "genres": [
+      "Adventure",
+      "Open World",
+      "Action"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "Japanese"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 19.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Sekiro: Shadows Die Twice",
+    "image": "/images/games/sekiro.jpg",
+    "description": "A challenging action-adventure game set in a fictionalized version of late 16th-century Japan.",
+    "genres": [
+      "Action",
+      "Souls-like",
+      "Adventure"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "Japanese"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 29.99,
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Monster Hunter: World",
+    "image": "/images/games/monster-hunter-world.jpg",
+    "description": "Hunt enormous monsters, craft powerful equipment and explore a living ecosystem filled with dangerous creatures.",
+    "genres": [
+      "Action RPG",
+      "Adventure",
+      "Co-op"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "Japanese",
+        "French"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 14.99,
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Stardew Valley",
+    "image": "/images/games/stardew-valley.jpg",
+    "description": "Build your own farm, grow crops, meet villagers, explore caves and create a new life in a peaceful countryside community.",
+    "genres": [
+      "Simulation",
+      "Farming",
+      "RPG"
+    ],
+    "languages": {
+      "voice": [],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 14.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Terraria",
+    "image": "/images/games/terraria.jpg",
+    "description": "A sandbox adventure where you can explore, build, craft equipment and battle countless enemies across a procedurally generated world.",
+    "genres": [
+      "Sandbox",
+      "Adventure",
+      "Survival"
+    ],
+    "languages": {
+      "voice": [],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian",
+        "Polish"
+      ]
+    },
+    "price": 9.99,
+    "discountPrice": 4.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Minecraft",
+    "image": "/images/games/minecraft.jpg",
+    "description": "A sandbox game where players can explore infinite worlds, gather resources, build structures and survive dangerous creatures.",
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Adventure"
+    ],
+    "languages": {
+      "voice": [],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 29.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "DOOM Eternal",
+    "image": "/images/games/doom-eternal.jpg",
+    "description": "A fast-paced first-person shooter where the Doom Slayer battles hordes of demons across multiple dimensions.",
+    "genres": [
+      "FPS",
+      "Action",
+      "Shooter"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian",
+        "Polish"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 9.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Control",
+    "image": "/images/games/control.jpg",
+    "description": "A supernatural third-person action game where Jesse Faden explores a mysterious government building filled with paranormal phenomena.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Third-Person Shooter"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 11.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Assassin's Creed Valhalla",
+    "image": "/images/games/assassins-creed-valhalla.jpg",
+    "description": "Play as a Viking warrior named Eivor and explore a massive open world during the Viking invasion of England.",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Adventure"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 17.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Far Cry 6",
+    "image": "/images/games/far-cry-6.jpg",
+    "description": "An open-world first-person shooter set on the fictional Caribbean island of Yara, where players fight against an authoritarian regime.",
+    "genres": [
+      "FPS",
+      "Action",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 14.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Deathloop",
+    "image": "/images/games/deathloop.jpg",
+    "description": "A stylish first-person action game where Colt is trapped in a time loop and must eliminate eight targets before the day resets.",
+    "genres": [
+      "FPS",
+      "Action",
+      "Immersive Sim"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "French",
+        "German"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 19.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "It Takes Two",
+    "image": "/images/games/it-takes-two.jpg",
+    "description": "A cooperative adventure designed for two players, combining platforming, puzzles and a heartfelt story about a family.",
+    "genres": [
+      "Co-op",
+      "Adventure",
+      "Platformer"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 19.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Sea of Thieves",
+    "image": "/images/games/sea-of-thieves.jpg",
+    "description": "A shared-world pirate adventure where players sail ships, search for treasure, battle enemies and explore a vast open sea.",
+    "genres": [
+      "Adventure",
+      "Co-op",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Portuguese",
+        "Russian"
+      ]
+    },
+    "price": 39.99,
+    "discountPrice": 19.99,
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 5"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Clair Obscur: Expedition 33",
+    "image": "/images/games/clair-obscur-expedition-33.jpg",
+    "description": "A turn-based RPG set in a dark fantasy world where the members of Expedition 33 embark on a journey to stop the Paintress from erasing humanity.",
+    "genres": [
+      "RPG",
+      "Turn-Based",
+      "Adventure"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "French"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Chinese",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 49.99,
+    "discountPrice": 39.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Subnautica",
+    "image": "/images/games/subnautica.jpg",
+    "description": "Explore a vast alien ocean, collect resources, construct underwater bases and uncover the secrets of an unknown planet.",
+    "genres": [
+      "Survival",
+      "Adventure",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian"
+      ]
+    },
+    "price": 29.99,
+    "discountPrice": 9.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Dishonored 2",
+    "image": "/images/games/dishonored-2.jpg",
+    "description": "A stealth-focused action game where players use supernatural abilities and creative tactics to navigate a world of political intrigue.",
+    "genres": [
+      "Stealth",
+      "Action",
+      "Immersive Sim"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "French",
+        "German"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Russian"
+      ]
+    },
+    "price": 29.99,
+    "discountPrice": 7.99,
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Dying Light 2",
+    "image": "/images/games/dying-light-2.jpg",
+    "description": "A first-person open-world action game where players explore a city overrun by infected creatures and make choices that affect the world.",
+    "genres": [
+      "Action RPG",
+      "Survival",
+      "Open World"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Polish"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 59.99,
+    "discountPrice": 14.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "Nintendo Switch"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Alan Wake 2",
+    "image": "/images/games/alan-wake-2.jpg",
+    "description": "A psychological survival horror game following two protagonists as they uncover a mysterious supernatural story in the Pacific Northwest.",
+    "genres": [
+      "Survival Horror",
+      "Adventure",
+      "Action"
+    ],
+    "languages": {
+      "voice": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "text": [
+        "English",
+        "German",
+        "French",
+        "Spanish",
+        "Italian",
+        "Polish",
+        "Russian"
+      ]
+    },
+    "price": 49.99,
+    "discountPrice": 29.99,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "title": "Clair Obscur: Expedition 33 Receives Major Update",
+    "image": "/images/news/expedition-33-update.jpg",
+    "shortDescription": "The latest update introduces new gameplay improvements, balance changes, bug fixes and additional quality-of-life features.",
+    "author": "Alex Morgan",
+    "date": "2026-09-28",
+    "link": "/news/clair-obscur-expedition-33-update",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Clair Obscur: Expedition 33 has received a major update focused on improving the overall player experience. The new patch introduces a number of gameplay improvements, balance adjustments and quality-of-life features designed to make exploration and combat smoother."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/expedition-33-update-1.jpg",
+        "alt": "Clair Obscur: Expedition 33 gameplay"
+      },
+      {
+        "type": "paragraph",
+        "text": "One of the main areas affected by the update is combat. Several abilities have been adjusted, while a number of encounters have been rebalanced to create a more consistent experience throughout the campaign."
+      },
+      {
+        "type": "heading",
+        "text": "What's included in the update?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Improved combat animations",
+          "Balance adjustments for several abilities",
+          "New quality-of-life options",
+          "Improved performance in several areas",
+          "Multiple bug fixes",
+          "Additional accessibility settings"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The developers have also addressed several technical issues reported by players. Loading times have been improved in certain areas and several visual glitches have been fixed."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/expedition-33-update-2.jpg",
+        "alt": "Clair Obscur: Expedition 33 environment"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alongside the technical improvements, the update contains several smaller changes that should make exploration more comfortable. The developers say that player feedback will continue to play an important role in future updates."
+      },
+      {
+        "type": "heading",
+        "text": "Looking ahead"
+      },
+      {
+        "type": "paragraph",
+        "text": "This update is only one step in the continued development of Expedition 33. More improvements and additional content may arrive in future patches as the team continues to work on the game."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cyberpunk 2077 Expands Its Night City Experience",
+    "image": "/images/news/cyberpunk-2077-news.jpg",
+    "shortDescription": "Night City continues to attract players with new activities, improved systems and a huge world filled with stories.",
+    "author": "Emma Wilson",
+    "date": "2026-09-25",
+    "link": "/news/cyberpunk-2077-night-city",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Night City remains one of the most recognizable open-world environments in modern gaming. Cyberpunk 2077 combines a large futuristic city with a dense collection of characters, missions and locations that encourage players to explore beyond the main story."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/cyberpunk-2077-night-city.jpg",
+        "alt": "Night City in Cyberpunk 2077"
+      },
+      {
+        "type": "paragraph",
+        "text": "Players can spend hours moving between different districts, completing contracts, discovering hidden locations and interacting with characters who have their own stories. The city changes considerably depending on the player's choices and the progress of the campaign."
+      },
+      {
+        "type": "heading",
+        "text": "A city full of activities"
+      },
+      {
+        "type": "paragraph",
+        "text": "One of the strongest aspects of Night City is the variety of activities available outside the main storyline. Players can choose how they want to spend their time and which parts of the city they want to explore."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Complete story missions",
+          "Take on optional contracts",
+          "Explore different districts",
+          "Customize weapons and equipment",
+          "Upgrade character abilities",
+          "Discover hidden locations",
+          "Interact with different factions"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/images/news/cyberpunk-2077-character.jpg",
+        "alt": "Cyberpunk 2077 character"
+      },
+      {
+        "type": "paragraph",
+        "text": "Character customization also plays an important role. Players can develop their character in different directions, combining weapons, cyberware and abilities to create a playstyle that fits their preferences."
+      },
+      {
+        "type": "heading",
+        "text": "Exploring Night City"
+      },
+      {
+        "type": "paragraph",
+        "text": "Even after completing major story missions, there are plenty of reasons to return to the city. Different neighborhoods have their own visual identity, atmosphere and activities, making exploration an important part of the overall experience."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Future of Gaming: What Players Can Expect",
+    "image": "/images/news/future-of-gaming.jpg",
+    "shortDescription": "New technologies continue to change the way games are developed, played and experienced.",
+    "author": "Daniel Carter",
+    "date": "2026-09-21",
+    "link": "/news/future-of-gaming",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The gaming industry continues to evolve rapidly. Developers are experimenting with new technologies, larger worlds and more dynamic systems that can change the way players interact with games."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/future-of-gaming-1.jpg",
+        "alt": "Modern gaming setup"
+      },
+      {
+        "type": "heading",
+        "text": "Bigger and more detailed worlds"
+      },
+      {
+        "type": "paragraph",
+        "text": "Modern hardware allows developers to create increasingly detailed environments. Games can contain larger maps, more detailed characters and complex systems that react to player actions."
+      },
+      {
+        "type": "paragraph",
+        "text": "This does not necessarily mean that every game needs to become larger. Many developers are also focusing on creating smaller worlds with more meaningful interactions and stronger attention to detail."
+      },
+      {
+        "type": "heading",
+        "text": "Technology changing development"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Real-time lighting and advanced rendering",
+          "More sophisticated animation systems",
+          "Improved artificial intelligence",
+          "Faster loading technologies",
+          "Procedural world generation",
+          "Advanced accessibility features"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/images/news/future-of-gaming-2.jpg",
+        "alt": "Game development environment"
+      },
+      {
+        "type": "paragraph",
+        "text": "Another important area is accessibility. Developers are increasingly adding customizable controls, subtitles, visual options and other settings that allow more players to enjoy their games."
+      },
+      {
+        "type": "heading",
+        "text": "What comes next?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The next generation of games will likely continue to combine improved technology with traditional game design principles. Despite rapid technical progress, strong characters, interesting worlds and satisfying gameplay remain central to the experience."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Most Anticipated RPG Adventures",
+    "image": "/images/news/anticipated-rpgs.jpg",
+    "shortDescription": "Role-playing games continue to attract players with deep stories, complex characters and huge worlds to explore.",
+    "author": "Sophia Bennett",
+    "date": "2026-09-18",
+    "link": "/news/anticipated-rpg-adventures",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Role-playing games have become one of the most diverse genres in gaming. Modern RPGs can range from massive open-world adventures to smaller, story-focused experiences with a strong emphasis on characters and atmosphere."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/rpg-adventures.jpg",
+        "alt": "Fantasy RPG adventure"
+      },
+      {
+        "type": "paragraph",
+        "text": "A successful RPG usually combines several different systems. Exploration, combat, character progression and storytelling all need to work together to create a world that players want to spend time in."
+      },
+      {
+        "type": "heading",
+        "text": "What makes a great RPG?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "A memorable world",
+          "Interesting characters",
+          "Meaningful player choices",
+          "Deep progression systems",
+          "Engaging combat",
+          "A strong soundtrack",
+          "A compelling story"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Player choice has also become an important part of the genre. Some games allow decisions to influence relationships, quests and even the ending of the story."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/rpg-character.jpg",
+        "alt": "RPG character in a fantasy world"
+      },
+      {
+        "type": "heading",
+        "text": "Different approaches to role-playing"
+      },
+      {
+        "type": "paragraph",
+        "text": "Not every RPG needs to offer hundreds of hours of content. Some titles focus on a smaller number of carefully designed locations and characters, while others give players enormous worlds with dozens of systems to discover."
+      },
+      {
+        "type": "paragraph",
+        "text": "This variety is one of the reasons the RPG genre continues to attract such a broad audience. Players can choose experiences based on the type of story, combat and exploration they enjoy."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "How Indie Games Continue to Surprise Players",
+    "image": "/images/news/indie-games.jpg",
+    "shortDescription": "Independent developers continue to experiment with unusual mechanics, visual styles and storytelling techniques.",
+    "author": "Michael Brooks",
+    "date": "2026-09-15",
+    "link": "/news/indie-games-surprise-players",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Independent games have become an important part of the modern gaming industry. Small development teams can experiment with ideas that might be difficult to implement in larger productions."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/indie-development.jpg",
+        "alt": "Indie game development"
+      },
+      {
+        "type": "paragraph",
+        "text": "Without the need to follow established formulas, indie developers can create unusual mechanics, visual styles and stories. Some of these experiments eventually influence larger studios and the wider industry."
+      },
+      {
+        "type": "heading",
+        "text": "Why players enjoy indie games"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Unique gameplay ideas",
+          "Creative art styles",
+          "Experimental storytelling",
+          "Smaller focused experiences",
+          "Original soundtracks",
+          "Innovative game mechanics"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Another advantage is the variety of experiences available. An indie game can be a short narrative adventure, a difficult platformer, a strategy game or an experimental project that does not fit neatly into a traditional genre."
+      },
+      {
+        "type": "image",
+        "src": "/images/news/indie-game-world.jpg",
+        "alt": "Indie game world"
+      },
+      {
+        "type": "heading",
+        "text": "A space for experimentation"
+      },
+      {
+        "type": "paragraph",
+        "text": "The independent scene provides developers with an opportunity to test ideas and respond directly to their communities. This can lead to games that feel very different from large commercial releases."
+      },
+      {
+        "type": "paragraph",
+        "text": "For players, this means there is always something new to discover. Even when a game has a small budget, a creative idea can make the experience memorable."
+      }
+    ]
+  }
+]

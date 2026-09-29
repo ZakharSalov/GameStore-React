@@ -3,27 +3,25 @@ import { NavLink } from "react-router-dom";
 import styles from "./index.module.scss";
 
 function MainNav() {
+  const menuItems = [
+    { title: "Home", path: "/" },
+    { title: "Store", path: "/shop" },
+    { title: "Services", path: "/services" },
+    { title: "News", path: "/news" },
+    { title: "Support", path: "/support" },
+    { title: "Contact", path: "/contact" },
+  ];
+
   return (
     <nav className={styles.mainNav}>
       <ul className={styles.mainNavList}>
-        <li className={styles.mainNavItem}>
-          <NavLink className={styles.mainNavLink} to="/">Home</NavLink>
-        </li>
-        <li className={styles.mainNavItem}>
-          <NavLink className={styles.mainNavLink} to="/shop">Store</NavLink>
-        </li>
-        <li className={styles.mainNavItem}>
-          <NavLink className={styles.mainNavLink} to="/services">Services</NavLink>
-        </li>
-        <li className={styles.mainNavItem}>
-          <NavLink className={styles.mainNavLink} to="/news">News</NavLink>
-        </li>
-        <li className={styles.mainNavItem}>
-          <NavLink className={styles.mainNavLink} to="/support">Support</NavLink>
-        </li>
-        <li className={styles.mainNavItem}>
-          <NavLink className={styles.mainNavLink} to="/contact">Contact</NavLink>
-        </li>
+        {menuItems.map((item) => (
+          <li className={styles.mainNavItem} key={item.path}>
+            <NavLink className={styles.mainNavLink} to={item.path}>
+              {item.title}
+            </NavLink>
+          </li>
+        ))}
       </ul>
     </nav>
   )

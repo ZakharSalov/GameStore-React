@@ -1,12 +1,19 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay } from 'swiper/modules';
+import { Link } from "react-router-dom";
 
 import 'swiper/css';
 import 'swiper/css/autoplay';
 
+import products from "../../data/games.json";
 import styles from "./index.module.scss";
+import { useState } from 'react';
 
 function HomeSlider() {
+  const [games, setGames] = useState(products);
+
+  const showGamesInSlider = games.slice(-8);
+
   return (
     <Swiper
       modules={[Autoplay]}
@@ -20,30 +27,13 @@ function HomeSlider() {
       }}
       className="mySwiper"
     >
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
-      <SwiperSlide>
-        <img className={styles.sliderImg} src="https://placehold.co/267x403" alt="Заглушка"></img>
-      </SwiperSlide>
+      {showGamesInSlider.map(item => (
+        <SwiperSlide key={item.id}>
+          <Link to="/">
+            <img className={styles.sliderImg} src={item.image} alt={item.title} width={267} height={403} />
+          </Link>
+        </SwiperSlide>
+      ))}
     </Swiper>
   )
 }
