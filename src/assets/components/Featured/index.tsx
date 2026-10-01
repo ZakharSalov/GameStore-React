@@ -13,24 +13,7 @@ function Featured() {
           </p>
         </div>
         <ul className={styles.featuredList}>
-          <li className={styles.featuredItem}>
-            <GameCard />
-          </li>
-          <li className={styles.featuredItem}>
-            <GameCard />
-          </li>
-          <li className={styles.featuredItem}>
-            <GameCard />
-          </li>
-          <li className={styles.featuredItem}>
-            <GameCard />
-          </li>
-          <li className={styles.featuredItem}>
-            <GameCard />
-          </li>
-          <li className={styles.featuredItem}>
-            <GameCard />
-          </li>
+          <GameCard />
         </ul>
       </div>
     </section>
